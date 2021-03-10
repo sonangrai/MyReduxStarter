@@ -8,8 +8,14 @@ Simply run
 npm install
 ```
 
-Packages Included
+Start By
 
+```
+npm start
+```
+
+Packages Included
+- create-react-app
 - redux
 - react-redux
 - redux-thunk
