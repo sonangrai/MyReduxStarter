@@ -12,9 +12,10 @@ Dependencies
 
 To Start the Development Serve of the App
 
-``npm serve
-``
+`
+npm start
+`
 To Build the App
-``
+`
 npm run build
-``
+`
