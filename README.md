@@ -1,23 +1,20 @@
-### REDUX STARTER
+### Redux Starter with Redux Toolkit and Redux Saga
 
-This is REDUX project starter. Simply this will be usefull if a new REDUX based project is going to be started.
+Dependencies
 
-Simply run
+- React
+- React DOM
+- React Router Dom
+- React Redux
+- Redux Saga
+- React Helmet
+- Axios
 
-```
-npm install
-```
+To Start the Development Serve of the App
 
-Start By
-
-```
-npm start
-```
-
-Packages Included
-- create-react-app
-- redux
-- react-redux
-- redux-thunk
-- redux-devtools-extension
-- react-helmet
+``npm serve
+``
+To Build the App
+``
+npm run build
+``
